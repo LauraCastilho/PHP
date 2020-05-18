@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(160, 231, 222);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input[type="submit" i]{
+    border-radius: 10px;
+    background-color: violet;
+    border-color: black;
+    padding: 7px;
+}
+input[type="text" i]{
+    border-radius: 10px;
+    border-color: black;
+    padding: 7px;
+}
+p{
+    font-size: 26px;
+}
