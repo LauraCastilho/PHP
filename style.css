@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(240, 144, 128);
+    text-align: center;
+}
+input[type='text']{
+    border-radius: 5px;
+    border-color: black;
+}
+input[type='submit']{
+    border-radius: 5px;
+    border-color: black;
+    background-color: rgb(255, 242, 121);
+}
+img{
+    width: 250px;
+    height: 250px;
+}
